@@ -31,7 +31,7 @@
         "url": "https://github.com/ultimatehecker/ussgrant"
     },
     "dependencies": {
-        "bootstrap": "5.1.3"
+        "bootstrap": "5.2.0"
     },
     "devDependencies": {
         "autoprefixer": "10.4.7",
